@@ -27,6 +27,12 @@ javascript:(function()%7Bjavascript%3A(function()%7B%0A%20%20%20%20const%20apiKe
 
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
+  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Snow!</h3>
+</div>
+
+
 ---
 
 <p align="center">
