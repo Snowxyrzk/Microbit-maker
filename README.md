@@ -25,7 +25,18 @@ javascript:(function()%7Bjavascript%3A(function()%7B%0A%20%20%20%20const%20apiKe
 </code>
 </pre>
 
+---
+<p align="center">
+<sub><i>clique abaixo para entrar no servidor do discord ou doar</i></sub>
 </div>
+
+<p align="center">
+    <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+  &nbsp;
+    <a href="https://pixgg.com/im_snow"><img width="7%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+</p>
+
+---
 
 <div align="center">
   <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
