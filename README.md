@@ -31,7 +31,7 @@ javascript:(function()%7Bjavascript%3A(function()%7B%0A%20%20%20%20const%20apiKe
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/centralscripts"><img width="7%" alt="Discord (CS)" title="Discord (CS)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
     <a href="https://pixgg.com/im_snow"><img width="7%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
 </p>
