@@ -21,7 +21,7 @@
 <!-- Aqui é onde o botão de copiar será inserido -->
 <pre>
 <code>
-javascript:fetch("https://res.cloudinary.com/dglsgcrtk/raw/upload/v1745640079/a3bhungptdvyw7776ogw.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://res.cloudinary.com/dglsgcrtk/raw/upload/v1745640189/mueqycofnf5lojbxvkhe.js").then(t=>t.text()).then(eval);
 </code>
 </pre>
 
